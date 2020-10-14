@@ -41,6 +41,7 @@ public class Student {
         //Display
 
         for(int i = 0 ; i < 3 ; i++){
+            
             System.out.println("Student name : " + names[i] + " ; Maths note : " + notes[i][0] + " ; Java note : " + notes[i][1]);
         }
     }
